@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ff383988169efb47a8218a0e20e0b1a, type: 3}
+  m_Name: Bacillus
+  m_EditorClassIdentifier: 
+  FactionName: Bacillus
+  Character: {fileID: -2788405087143660594, guid: d0eaf365aebe3934bbb00f3487fb6c42,
+    type: 3}
+  FactionLogo: {fileID: 21300000, guid: c6a876e7b372b8c40b458109575bc85b, type: 3}
+  PlayerDeadExplosion: {fileID: 3934384650422062426, guid: e8b9e47974a12f840bf2b31808efde7d,
+    type: 3}

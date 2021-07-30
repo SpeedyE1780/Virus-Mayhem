@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d4414ef40debb244a8572ccad8bd48a, type: 3}
+  m_Name: FragGrenade
+  m_EditorClassIdentifier: 
+  WeaponProjectile: {fileID: 4015294146774916600, guid: dcbf5ec9e2e8f9b468f53d69988904a1,
+    type: 3}
+  WeaponExplosion: {fileID: 3934384650422062426, guid: 593944627c97b28408c2c9a7aabf08f3,
+    type: 3}
+  WeaponSprite: {fileID: 21300000, guid: 08e2cbe316450804d8cf91ddf7f7f924, type: 3}
+  Name: Frag Grenade
+  Damage: 15
+  Raduis: 15
+  Force: 50
+  Velocity: 25
+  Duration: 2
+  Fragment: {fileID: 7165415799573640599, guid: a654ca7204d307b45a352231ed1bda97,
+    type: 3}
+  FragNumber: 3
+  FragRaduis: 8
+  FragDamage: 5
+  FragForce: 50
+  FragVelocity: 8

@@ -1,0 +1,7 @@
+WASD to move around
+Right click aim
+Left click shoot
+q to open inventory
+tab to view team info
+m to view the map
+Press 1 2 3 4 to switch between team members

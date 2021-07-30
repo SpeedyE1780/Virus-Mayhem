@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50b967ba6d78bf64795d95193e9c680a, type: 3}
+  m_Name: Grenade
+  m_EditorClassIdentifier: 
+  WeaponProjectile: {fileID: 3835996002039449647, guid: 225e92d0e6845eb44b4d76cb147a577a,
+    type: 3}
+  WeaponExplosion: {fileID: 3934384650422062426, guid: 593944627c97b28408c2c9a7aabf08f3,
+    type: 3}
+  WeaponSprite: {fileID: 21300000, guid: 1e2b9c2e406e4044b8619e3dd0bd913d, type: 3}
+  Name: Grenade
+  Damage: 20
+  Raduis: 15
+  Force: 25
+  Velocity: 25
+  Duration: 3
